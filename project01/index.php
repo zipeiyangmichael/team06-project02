@@ -1,4 +1,4 @@
-	<?php  hhhhh
+	<?php
 	  $currentPage = "Home";	
 	  include "inc/topPart.inc"; 
 	  ?>
