@@ -6,7 +6,7 @@
     <?php include "inc/nav.inc.php"; ?>
 
         
-            <h2>Baseball</h2>
+        <h2>Baseball</h2>
         
 
         <section>

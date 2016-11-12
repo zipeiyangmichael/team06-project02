@@ -6,7 +6,7 @@
     <?php include "inc/nav.inc.php"; ?>
 
 			
-					<h2>Soccer</h2>
+			<h2>Soccer</h2>
 			
 
 			<section>
@@ -118,7 +118,7 @@
 		include "inc/footer.inc"
 		?>
 			</div><!-- .container -->
-			
+
         <?php include "inc/scripts.inc" ?>
 	</body>
 </html>

@@ -18,16 +18,14 @@
 	</header>
 
 
-				<div class = "first-letter">
-					<p>Sport (UK) or sports (US) are all forms of usually competitive physical activity or games which,[1] through casual or organised participation, aim to use, maintain or improve physical ability and skills while providing enjoyment to participants, and in some cases, entertainment for spectators.[2] Usually the contest or game is between two sides, each attempting to exceed the other. Some sports allow a tie game; others provide tie-breaking methods, to ensure one winner and one loser. A number of such two-sided contests may be arranged in a tournament producing a champion. Many sports leagues make an annual champion by arranging games in a regular sports season, followed in some cases by playoffs. Hundreds of sports exist, from those between single contestants, through to those with hundreds of simultaneous participants, either in teams or competing as individuals. In certain sports such as racing, many contestants may compete, each against all with one winner.</p>
-				</div>
+		<div class = "first-letter">
+			<p>Sport (UK) or sports (US) are all forms of usually competitive physical activity or games which,[1] through casual or organised participation, aim to use, maintain or improve physical ability and skills while providing enjoyment to participants, and in some cases, entertainment for spectators.[2] Usually the contest or game is between two sides, each attempting to exceed the other. Some sports allow a tie game; others provide tie-breaking methods, to ensure one winner and one loser. A number of such two-sided contests may be arranged in a tournament producing a champion. Many sports leagues make an annual champion by arranging games in a regular sports season, followed in some cases by playoffs. Hundreds of sports exist, from those between single contestants, through to those with hundreds of simultaneous participants, either in teams or competing as individuals. In certain sports such as racing, many contestants may compete, each against all with one winner.</p>
+		</div>
 		
-				<h2>Soccer</h2>
-			
+		<h2>Soccer</h2>
 
-			<section>
-				<article>
-				<h3>Brief</h3>
+		<article>
+			<h3>Brief</h3>
 
 				<div class = "first-letter">
 					<p>Association football, more commonly known as football or soccer,[3] nicknamed The World Game or The Beautiful Game, is a team sport played between two teams of eleven players with a spherical ball. It is played by 250 million players in over 200 countries and dependencies, making it the world's most popular sport.[4][5][6][7] The game is played on a rectangular field with a goal at each end. The object of the game is to score by getting the ball into the opposing goal.</p>
@@ -127,6 +125,8 @@
 					</ul>
 
 			</aside>
+
+			<h2>Frisbee</h2>
 		
 			<article>
             <h3>Brief</h3>
@@ -228,9 +228,7 @@
         </aside>
 
         <h2>Baseball</h2>
-        
 
-        <section>
           <article>
 
             <h3>Brief</h3>
@@ -346,12 +344,10 @@
                 </ul>
 
           </aside>
-        </section>
+
 
         <h2>About the Project</h2>
-	
 
-		<section>
 			<article>
 
 					<h3>Member Tasks</h3>
@@ -441,7 +437,7 @@
 
 		
 			</article>
-		</section>		
+	
 
 
 		<?php
