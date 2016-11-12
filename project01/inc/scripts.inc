@@ -3,3 +3,4 @@
 <script src="js/materialize.min.js"></script>
 <script type="text/javascript" src="js/carousel.js"></script>
 <script type="text/javascript" src="js/mobile-nav.js"></script>
+<script type="text/javascript" src="js/parallax.js"></script>

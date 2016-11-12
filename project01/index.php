@@ -11,16 +11,33 @@
 	    <a class="carousel-item" href="frisbee.php"><img src="images/carousel/frisbee.jpg" alt="frisbee"></a>
 	    <a class="carousel-item" href="baseball.php"><img src="images/carousel/baseball.jpg" alt="baseball"></a>
   	</div>
-  	
 
-	<header>
-		<h2>Highlights of the Sport</h2>
-	</header>
+  	<div class="parallax-container">
+    	<div class="parallax"><img src="images/bk1.jpg"></div>
+  	</div>
 
 
-		<div class = "first-letter">
-			<p>Sport (UK) or sports (US) are all forms of usually competitive physical activity or games which,[1] through casual or organised participation, aim to use, maintain or improve physical ability and skills while providing enjoyment to participants, and in some cases, entertainment for spectators.[2] Usually the contest or game is between two sides, each attempting to exceed the other. Some sports allow a tie game; others provide tie-breaking methods, to ensure one winner and one loser. A number of such two-sided contests may be arranged in a tournament producing a champion. Many sports leagues make an annual champion by arranging games in a regular sports season, followed in some cases by playoffs. Hundreds of sports exist, from those between single contestants, through to those with hundreds of simultaneous participants, either in teams or competing as individuals. In certain sports such as racing, many contestants may compete, each against all with one winner.</p>
-		</div>
+  	<div class="section white">
+    	<div class="row container">
+
+		<header>
+			<h2>Highlights of the Sport</h2>
+		</header>
+
+
+			<div class = "first-letter">
+				<p>Sport (UK) or sports (US) are all forms of usually competitive physical activity or games which,[1] through casual or organised participation, aim to use, maintain or improve physical ability and skills while providing enjoyment to participants, and in some cases, entertainment for spectators.[2] Usually the contest or game is between two sides, each attempting to exceed the other. Some sports allow a tie game; others provide tie-breaking methods, to ensure one winner and one loser. A number of such two-sided contests may be arranged in a tournament producing a champion. Many sports leagues make an annual champion by arranging games in a regular sports season, followed in some cases by playoffs. Hundreds of sports exist, from those between single contestants, through to those with hundreds of simultaneous participants, either in teams or competing as individuals. In certain sports such as racing, many contestants may compete, each against all with one winner.</p>
+			</div>
+
+		</div><!--row container -->
+  	</div><!--section white -->
+
+  	<div class="parallax-container">
+    	<div class="parallax"><img src="images/bk1.jpg"></div>
+  	</div>
+
+  	<div class="section white">
+    	<div class="row container">
 		
 		<h2>Soccer</h2>
 
@@ -126,6 +143,16 @@
 
 			</aside>
 
+			</div><!--row container -->
+  			</div><!--section white -->
+
+  			<div class="parallax-container">
+    			<div class="parallax"><img src="images/bk1.jpg"></div>
+  			</div>
+
+  			<div class="section white">
+    		<div class="row container">
+
 			<h2>Frisbee</h2>
 		
 			<article>
@@ -226,6 +253,16 @@
             </ul>
 
         </aside>
+
+        </div><!--row container -->
+  		</div><!--section white -->
+
+  		<div class="parallax-container">
+    		<div class="parallax"><img src="images/bk1.jpg"></div>
+  		</div>
+
+  		<div class="section white">
+    	<div class="row container">
 
         <h2>Baseball</h2>
 
@@ -345,6 +382,18 @@
 
           </aside>
 
+        </div><!--row container -->
+  		</div><!--section white -->
+
+  		<div class="parallax-container">
+    		<div class="parallax"><img src="images/bk1.jpg"></div>
+  		</div>
+
+  		<div class="section white">
+    	<div class="row container">
+
+
+
 
         <h2>About the Project</h2>
 
@@ -437,6 +486,9 @@
 
 		
 			</article>
+
+			</div><!--row container -->
+  		</div><!--section white -->
 	
 
 
