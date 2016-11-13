@@ -1,15 +1,15 @@
 body {
 	background-color: #c5cae9;
 	 color: #00001a;
-font-family: avenir-book, geneva, Arial, Helvetica, sans-serif; 
+font-family: 'Roboto', sans-serif;
 }
 
 h1, h2 {
-	font-family: avenir-heavy, geneva, Arial, Helvetica, sans-serif; 
+	font-family: 'Russo One', sans-serif;
 	} 
 
 h3, h4 {
-	font-family: avenir-medium, geneva, Arial, Helvetica, sans-serif; 
+	font-family: 'Roboto', sans-serif;
 }
 
 p {
