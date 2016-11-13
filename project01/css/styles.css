@@ -23,7 +23,6 @@ a {
 
 a:hover{
 	color: #3f51b5;
-	font-size: 1.3em;
 }
 h1 a {
 	color: #00001a;
@@ -96,7 +95,6 @@ aside {
 /* Make the nav elements bigger and change the color when they hover on them */
 /* Home element */
 #home-big a:hover {
-	font-size: 1.6em;
 	color: #70d6ff;
 }
 /* Sports & Colophon elements */
