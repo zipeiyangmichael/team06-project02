@@ -12,13 +12,13 @@
 	    <a class="carousel-item" href="baseball.php"><img src="images/carousel/baseball.jpg" alt="baseball"></a>
   	</div>
 
-  	<div class="parallax-container">
+  	<div class="parallax-container valign-wrapper">
     	<div class="parallax"><img src="images/bk1.jpg"></div>
   	</div>
 
-
-  	<div class="section white">
-    	<div class="row container">
+    <div class="container">
+  	<div class="section">
+    <div class="row">
 
 		<header>
 			<h2>Highlights of the Sport</h2>
@@ -29,15 +29,17 @@
 				<p>Sport (UK) or sports (US) are all forms of usually competitive physical activity or games which,[1] through casual or organised participation, aim to use, maintain or improve physical ability and skills while providing enjoyment to participants, and in some cases, entertainment for spectators.[2] Usually the contest or game is between two sides, each attempting to exceed the other. Some sports allow a tie game; others provide tie-breaking methods, to ensure one winner and one loser. A number of such two-sided contests may be arranged in a tournament producing a champion. Many sports leagues make an annual champion by arranging games in a regular sports season, followed in some cases by playoffs. Hundreds of sports exist, from those between single contestants, through to those with hundreds of simultaneous participants, either in teams or competing as individuals. In certain sports such as racing, many contestants may compete, each against all with one winner.</p>
 			</div>
 
-		</div><!--row container -->
-  	</div><!--section white -->
+		</div><!--row  -->
+  	</div><!--section -->
+  </div><!--container -->
 
-  	<div class="parallax-container">
+  	<div class="parallax-container valign-wrapper">
     	<div class="parallax"><img src="images/bk1.jpg"></div>
   	</div>
 
-  	<div class="section white">
-    	<div class="row container">
+  	<div class="container">
+    <div class="section">
+    	<div class="row">
 		
 		<h2>Soccer</h2>
 
@@ -144,14 +146,16 @@
 			</aside>
 
 			</div><!--row container -->
-  			</div><!--section white -->
+  		</div><!--section -->
+      </div><!--container -->
 
-  			<div class="parallax-container">
+  			<div class="parallax-container valign-wrapper">
     			<div class="parallax"><img src="images/bk1.jpg"></div>
   			</div>
 
-  			<div class="section white">
-    		<div class="row container">
+  			<div class="container">
+        <div class="section">
+    		<div class="row">
 
 			<h2>Frisbee</h2>
 		
@@ -255,14 +259,16 @@
         </aside>
 
         </div><!--row container -->
-  		</div><!--section white -->
+  		</div><!--section -->
+      </div><!--container -->
 
-  		<div class="parallax-container">
+  		<div class="parallax-container valign-wrapper">
     		<div class="parallax"><img src="images/bk1.jpg"></div>
   		</div>
 
-  		<div class="section white">
-    	<div class="row container">
+      <div class="container">
+  		<div class="section">
+    	<div class="row">
 
         <h2>Baseball</h2>
 
@@ -383,14 +389,16 @@
           </aside>
 
         </div><!--row container -->
-  		</div><!--section white -->
+  		</div><!--section -->
+      </div><!--container -->
 
-  		<div class="parallax-container">
+  		<div class="parallax-container valign-wrapper">
     		<div class="parallax"><img src="images/bk1.jpg"></div>
   		</div>
 
-  		<div class="section white">
-    	<div class="row container">
+      <div class="container">
+  		<div class="section ">
+    	<div class="row">
 
 
 
@@ -488,7 +496,8 @@
 			</article>
 
 			</div><!--row container -->
-  		</div><!--section white -->
+  		</div><!--section -->
+      </div><!--container -->
 	
 
 
@@ -496,8 +505,6 @@
 			$contentFrom = "https://en.wikipedia.org";
 			include "inc/footer.inc"
 		?>
-
-	</div><!-- .container -->
 
 		<?php include "inc/scripts.inc" ?>
 

@@ -12,7 +12,6 @@
 	</head>
 	<body>
 
-	<div class="container">
 	<header>
 		<h1 class = "title">
 			<a href="index.php">Sports!</a>
