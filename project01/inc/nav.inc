@@ -20,8 +20,8 @@
           
       </ul>
  -->
-
-      <ul id="nav-mobile">
+    <a href="#" class="brand-logo">Sports!</a>
+      <ul id="nav-mobile" class="right hide-on-med-and-down">
           <li><a href="#">Home</a></li>
           <li><a href="#soccer">Soccer</a></li>
           <li><a href="#frisbee">Frisbee</a></li>

@@ -12,11 +12,15 @@
 		<link href="https://fonts.googleapis.com/css?family=Gentium+Book+Basic" rel="stylesheet">
 	</head>
 	<body>
-
+<!-- Title is now part of the navigation as a logo
 	<header>
 		<h1 class = "title">
 			<a href="index.php">Sports!</a>
 		</h1>
 
 	</header>
+
+--> 
+
+
 
