@@ -14,6 +14,7 @@ h3, h4 {
 
 p {
 	margin-top: 0px;
+	text-align: left;
 }
 
 a {
@@ -100,6 +101,10 @@ aside {
 /* Sports & Colophon elements */
 #soccer a:hover, #frisbee a:hover, #baseball a:hover, #colophon a:hover {
 	color: #70d6ff;
+}
+
+.card-content p {
+	text-align: left;
 }
 
 /* Three columns for the three sports */
