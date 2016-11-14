@@ -13,10 +13,11 @@
 	</head>
 	<body>
 
-	<header>
+	<!--<header>
 		<h1 class = "title">
 			<a href="index.php">Sports!</a>
 		</h1>
 
 	</header>
+-->
 
