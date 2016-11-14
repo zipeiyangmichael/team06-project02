@@ -10,7 +10,7 @@ h1{
 
 h2 {
 	font-family: 'Russo One', sans-serif;
-	text-shadow: 5px 5px #778899;
+	text-shadow: 5px 5px #DCDCDC;
 	} 
 
 h3, h4 {
@@ -63,10 +63,6 @@ aside {
 
 header{
 	text-align: center;
-}
-
-span{
-     font-size: 150%
 }
 
 /* Make the title stay the same size when they hover on it */

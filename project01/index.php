@@ -1,9 +1,9 @@
 	<?php
-	  $currentPage = "Home";	
-	  include "inc/topPart.inc"; 
+	  $currentPage = "Home";	 
 	  ?>
-
+  <?php include "inc/topPart.inc"; ?>
 	<?php include "inc/nav.inc"; ?>
+
 
 
   	<div class="carousel carousel-slider">
