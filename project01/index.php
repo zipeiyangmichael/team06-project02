@@ -79,7 +79,7 @@
             	<div class="hide-on-large-only">
             		<figure>
             			<img src="images/soccer2.jpg" alt="Soccer History">
-            			<figcaption>An episkyros player on an ancient stone carving at the National Archaeological Museum, Athens.</figcaption>
+            			<figcaption>An episkyros player on an ancient stone <br> carving at the National Archaeological<br> Museum, Athens.</figcaption>
             		</figure>
             	</div>
 
@@ -171,7 +171,7 @@
 
             <h3>History</h3>
             
-            <div class="col s12 m7">
+          
               <div class="card horizontal hide-on-med-and-down">
                 <div class="card-image">
                   <img src="images/frisbee1.jpg" alt="Frisbee History">
@@ -182,14 +182,14 @@
                   </div>
                 </div>
               </div>
-            </div>
+            
         
     <!--for mobile usability-->
 
             <div class="hide-on-large-only">
               <figure>
                 <img src="images/frisbee1.jpg" alt="Frisbee History">
-                <figcaption>The first Frisbee (Professional Model) ever designed with a tournament identification. The 1972 Canadian Open Frisbee Championships,Toronto.</figcaption>
+                <figcaption>The first Frisbee (Professional Model) ever designed <br> with a tournament identification. The 1972 <br> Canadian Open Frisbee Championships,Toronto.</figcaption>
               </figure>
             </div>
 
@@ -290,7 +290,7 @@
             
             <h3>History</h3>
                
-            <div class="col s12 m7">
+            
               <div class="card horizontal hide-on-med-and-down">
                 <div class="card-image">
                   <img src="images/baseball1.jpg" alt="Baseball History">
@@ -302,14 +302,14 @@
                   </div>
                 </div>
               </div>
-            </div>
+          
         
               <!-- for mobile usability -->
 
             <div class="hide-on-large-only">
               <figure>
                 <img src="images/baseball1.jpg" alt="Baseball History">
-                <figcaption>Alexander Cartwright, father of modern baseball.</figcaption>
+                <figcaption>Alexander Cartwright, <br>father of modern baseball.</figcaption>
               </figure>
             </div>
 
