@@ -3,7 +3,7 @@
 	  include "inc/topPart.inc"; 
 	  ?>
 
-	<?php include "inc/nav.inc.php"; ?>
+	<?php include "inc/nav.inc"; ?>
 
 
   	<div class="carousel carousel-slider">
@@ -41,7 +41,7 @@
     <div class="section">
     	<div class="row">
 		
-		<h2>Soccer</h2>
+		<h2 id="soccer">Soccer</h2>
 
 		<article>
 			<h3>Brief</h3>
@@ -157,7 +157,7 @@
         <div class="section">
     		<div class="row">
 
-			<h2>Frisbee</h2>
+			<h2 id="frisbee">Frisbee</h2>
 		
 			<article>
             <h3>Brief</h3>
@@ -270,7 +270,7 @@
   		<div class="section">
     	<div class="row">
 
-        <h2>Baseball</h2>
+        <h2 id="baseball">Baseball</h2>
 
           <article>
 
@@ -403,7 +403,7 @@
 
 
 
-        <h2>About the Project</h2>
+        <h2 id="colophon">About the Project</h2>
 
 			<article>
 
