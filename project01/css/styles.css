@@ -7,6 +7,9 @@ font-family: 'Roboto', sans-serif;
 h1, h2 {
 	font-family: 'Russo One', sans-serif;
 	} 
+h2 {
+	text-shadow: 5px 5px #A9A9A9;
+}
 
 h3, h4 {
 	font-family: 'Roboto', sans-serif;

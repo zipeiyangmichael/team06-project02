@@ -4,7 +4,7 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<title> CSC174 Project2 | <?php echo "$currentPage"; ?></title>
+		<title> CSC174 Project 2 | <?php echo "$currentPage"; ?></title>
 		<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 		<link rel="stylesheet" href="css/materialize.min.css">
 		<link rel="stylesheet" href="css/styles.css">
