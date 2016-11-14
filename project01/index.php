@@ -408,7 +408,7 @@
 			<article>
 
 					<h3>Member Tasks</h3>
-						<ul class="collection tasks">
+						<ul class="collection">
 						    <li class="collection-item avatar indigo lighten-3">
 						     <i class="material-icons circle blue">store</i>
 						     <span class="title">Alizah Barker</span>
@@ -427,7 +427,7 @@
 						    <li class="collection-item avatar indigo lighten-3">
 						      <i class="material-icons circle orange">http</i>
 						      <span class="title">Chadrick Frederick</span>
-						    <h5>Content Master and Designer</h5>
+						    <h3>Content Master and Designer</h3>
 						    <ul class = "mem-tasks">
 						      	<li>Chose Topic: Sports</li>
 						      	<li>Structured Content</li>
@@ -439,7 +439,7 @@
 						    <li class="collection-item avatar indigo lighten-3">
 						      <i class="material-icons circle green">mode_edit</i>
 						      <span class="title">Daniel Gomez</span>
-						    <h5>CSS Artist</h5>
+						    <h3>CSS Artist</h3>
 						    <ul class = "mem-tasks">
 						      	<li>Overrode Materialize</li>
 						      	<li>Selected Elements to Edit</li>
@@ -451,7 +451,7 @@
 						    <li class="collection-item avatar indigo lighten-3">
 						      <i class="material-icons circle red">view_quilt</i>
 						      <span class="title">Mariana Flores Kim</span>
-						    <h5>Framework Wrangler</h5>
+						    <h3>Framework Wrangler</h3>
 						    <ul class = "mem-tasks">
 						      	<li>Created New Classes</li>
 						      	<li>Edited and Cleaned Code</li>
@@ -465,7 +465,7 @@
 						    <li class="collection-item avatar indigo lighten-3">
 						    <i class="material-icons circle purple">view_carousel</i>
 						    <span class="title">Jacob Margolis</span>
-						    <h5>JavaScript Coder</h5>
+						    <h3>JavaScript Coder</h3>
 						    <ul class = "mem-tasks">
 						      	<li>Designed Carousel</li>
 						      	<li>Mobile Compatibility</li>
