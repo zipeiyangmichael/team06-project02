@@ -13,7 +13,7 @@
   	</div>
 
   	<div class="parallax-container valign-wrapper">
-    	<div class="parallax"><img src="images/bk1.jpg"></div>
+    	<div class="parallax"><img src="images/bg1.jpg"></div>
   	</div>
 
     <div class="container">
@@ -34,7 +34,7 @@
   </div><!--container -->
 
   	<div class="parallax-container valign-wrapper">
-    	<div class="parallax"><img src="images/bk1.jpg"></div>
+    	<div class="parallax"><img src="images/bg2.png"></div>
   	</div>
 
   	<div class="container">
@@ -150,7 +150,7 @@
       </div><!--container -->
 
   			<div class="parallax-container valign-wrapper">
-    			<div class="parallax"><img src="images/bk1.jpg"></div>
+    			<div class="parallax"><img src="images/bg3.jpg"></div>
   			</div>
 
   			<div class="container">
@@ -263,7 +263,7 @@
       </div><!--container -->
 
   		<div class="parallax-container valign-wrapper">
-    		<div class="parallax"><img src="images/bk1.jpg"></div>
+    		<div class="parallax"><img src="images/bg4.jpg"></div>
   		</div>
 
       <div class="container">
@@ -393,7 +393,7 @@
       </div><!--container -->
 
   		<div class="parallax-container valign-wrapper">
-    		<div class="parallax"><img src="images/bk1.jpg"></div>
+    		<div class="parallax"><img src="images/bg5.jpg"></div>
   		</div>
 
       <div class="container">
