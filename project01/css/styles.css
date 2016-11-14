@@ -4,13 +4,8 @@ body {
 font-family: 'Roboto', sans-serif;
 }
 
-h1{
-	font-family: 'Bungee Inline', cursive;
-}
-
-h2 {
+h1, h2 {
 	font-family: 'Russo One', sans-serif;
-	text-shadow: 5px 5px #DCDCDC;
 	} 
 
 h3, h4 {
@@ -61,21 +56,9 @@ aside {
 	padding-left: 30px;
 }
 
-header{
-	text-align: center;
-}
-
 /* Make the title stay the same size when they hover on it */
 .title a:hover {
 	font-size: 1em;
-}
-
-nav{
-	text-align: center;
-}
-
-.collection {
-	width: auto;
 }
 
 .container {
@@ -83,6 +66,10 @@ nav{
 	width: 90%;
 	max-width: 1200px;
 	
+}
+
+.collection {
+	width: 100%;
 }
 
 .tech-used li {

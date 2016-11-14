@@ -1,4 +1,3 @@
-<div class="navbar-fixed">
 <nav>
     <div class="nav-wrapper indigo lighten-2">
       
@@ -20,8 +19,8 @@
           
       </ul>
  -->
-    <a href="#" class="brand-logo">Sports!</a>
-      <ul id="nav-mobile" class="right hide-on-med-and-down">
+
+      <ul id="nav-mobile" class="right">
           <li><a href="#">Home</a></li>
           <li><a href="#soccer">Soccer</a></li>
           <li><a href="#frisbee">Frisbee</a></li>
@@ -31,6 +30,5 @@
 
     </div>
   </nav>
-</div>
 
       
