@@ -1,3 +1,4 @@
+<div class="navbar-fixed">
 <nav>
     <div class="nav-wrapper indigo lighten-2">
       
@@ -30,5 +31,6 @@
 
     </div>
   </nav>
+</div>
 
       

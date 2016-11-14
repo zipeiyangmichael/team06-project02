@@ -56,6 +56,11 @@ aside {
 	padding-left: 30px;
 }
 
+.navbar-fixed{
+	margin-top: 100%;
+	position: absolute;
+	z-index: 0;
+}
 /* Make the title stay the same size when they hover on it */
 .title a:hover {
 	font-size: 1em;
