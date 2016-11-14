@@ -9,6 +9,7 @@
 		<link rel="stylesheet" href="css/materialize.min.css">
 		<link rel="stylesheet" href="css/styles.css">
 		<link href="https://fonts.googleapis.com/css?family=Roboto|Russo+One" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Gentium+Book+Basic" rel="stylesheet">
 	</head>
 	<body>
 
