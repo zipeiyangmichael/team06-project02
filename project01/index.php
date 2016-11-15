@@ -20,7 +20,7 @@
     <div class="row">
 
 		<header>
-			<h2>Highlights of the Sport</h2>
+			<h1>Highlights of the Sport</h1>
 		</header>
 
 
