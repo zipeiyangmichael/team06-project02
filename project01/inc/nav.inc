@@ -22,11 +22,11 @@
  -->
 
       <ul id="nav-mobile" class="right">
-          <li><a href="#">Home</a></li>
-          <li><a href="#soccer">Soccer</a></li>
-          <li><a href="#frisbee">Frisbee</a></li>
-          <li><a href="#baseball">Baseball</a></li>
-          <li><a href="#colophon">Colophon</a></li>
+          <li class="nav"><a href="#">Home</a></li>
+          <li class="nav"><a href="#soccer">Soccer</a></li>
+          <li class="nav"><a href="#frisbee">Frisbee</a></li>
+          <li class="nav"><a href="#baseball">Baseball</a></li>
+          <li class="nav"><a href="#colophon">Colophon</a></li>
       </ul>
 
     </div>
