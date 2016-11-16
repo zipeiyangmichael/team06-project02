@@ -1,7 +1,8 @@
 <div class="navbar-fixed">
 <nav>
     <div class="nav-wrapper indigo lighten-2">
-    <a href="#" class="brand-logo hide-on-med-and-down">Sports</a>
+    <a href="#" class="brand-logo ">Sports</a>
+    <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
 <!--       <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">reorder</i></a>
       <ul id="nav-mobile" class="left hide-on-med-and-down">
           <li id = "home-big" <?php if ($currentPage == "Home") echo 'class="active"';?>><a href="index.php">Home</a></li>
@@ -21,7 +22,15 @@
       </ul>
  -->
 
-      <ul id="nav-mobile" class="right">
+      <ul id="nav-mobile" class="right hide-on-med-and-down">
+          <li class="nav"><a href="#">Home</a></li>
+          <li class="nav"><a href="#soccer">Soccer</a></li>
+          <li class="nav"><a href="#frisbee">Frisbee</a></li>
+          <li class="nav"><a href="#baseball">Baseball</a></li>
+          <li class="nav"><a href="#colophon">Colophon</a></li>
+      </ul>
+
+      <ul class="side-nav" id="mobile-demo">
           <li class="nav"><a href="#">Home</a></li>
           <li class="nav"><a href="#soccer">Soccer</a></li>
           <li class="nav"><a href="#frisbee">Frisbee</a></li>
