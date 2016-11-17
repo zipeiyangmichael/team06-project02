@@ -415,7 +415,8 @@
           <div class="colophon-border">
 		
 
-						     <h4>Alizah Barker-Architect</h4>
+						     <h4>Alizah Barker</h4>
+                 <h5>Architect</h5>
 
 						     <ul>
 						      	<li>Chose Framework</li>
@@ -430,7 +431,8 @@
 
                <div class="colophon-border">
 
-						      <h4>Chadrick Frederick-Content Master and Designer</h4>
+						      <h4>Chadrick Frederick</h4>
+                  <h5>Content Master and Designer</h5>
 
 						    <ul>
 						      	<li>Chose Topic: Sports</li>
@@ -443,7 +445,8 @@
 						     
 						     <div class="colophon-border">
                   
-						      <h4>Daniel Gomez-CSS Artist</h4>
+						      <h4>Daniel Gomez</h4>
+                  <h5>ACSS Artist</h5>
 						
 						    <ul>
 						      	<li>Overrode Materialize</li>
@@ -459,7 +462,8 @@
                <div class="inline2">
 						      
 						     <div class="colophon-border">
-						      <h4>Mariana Flores Kim-Framework Wrangler</h4>
+						      <h4>Mariana Flores Kim</h4>
+                  <h5>Framework Wrangler</h5>
 			
 						    <ul>
 						      	<li>Created New Classes</li>
@@ -473,7 +477,8 @@
                  </div><!--.colophon-border-->
 						      
 						   <div class="colophon-border">
-						    <h4>Jacob Margolis-JavaScript Coder</h4>
+						    <h4>Jacob Margolis</h4>
+                <h5>JavaScript Coder</h5>
 						 
 						    <ul>
 						      	<li>Designed Carousel</li>
