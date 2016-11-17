@@ -106,7 +106,7 @@ aside {
 	max-width: 80%;
 }
 
-#colophon div {
+.colophon-border{
 	border: 5px solid grey;
 	line-height: 160%;
 	padding: 2px;
