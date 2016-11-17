@@ -106,12 +106,18 @@ aside {
 	max-width: 80%;
 }
 
-.colophon-border{
+.colophon-border {
 	border: 5px solid white;
 	line-height: 160%;
 	padding: 10px;
 	margin:5px;
 	background-color: #9fa8da;
+}
+
+.colophon-border li {
+	list-style-type: square;
+	margin-left: 30px;
+
 }
 
 .tasks {
@@ -171,6 +177,24 @@ figure {
 
 }
 
+.inline1 {
+	display: flex;
+	width: 100%;
+}
+
+.inline1 div {
+	width: 33%;
+}
+
+.inline2 {
+	display: flex;
+	width: 100%;
+}
+
+.inline2 div {
+	width: 33%;
+}
+
 /* ****************
 	Mobile Fixes
 ***************** */
@@ -218,6 +242,12 @@ figure {
     position: absolute;
     top: 40%;
   }
+}
+
+@media (max-width: 450px) {
+	.inline1, .inline2 {
+		display: none;
+	}
 }
 
 

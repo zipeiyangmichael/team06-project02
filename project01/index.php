@@ -409,12 +409,14 @@
 					<h3>Member Tasks</h3>
 
 
+          <div class="inline1">
+
+
           <div class="colophon-border">
 		
 
 						     <h4>Alizah Barker-Architect</h4>
 
-                 <p>Kinda the leader, but don't let that go to your head. This person sets up the initial repository; selects the framework (and has to know something about the framework and how to use it); decides how the pages will be split up into PHP includes and when in the process that'll happen. This person has to instruct the Framework Wrangler on how to use the framework.</p>
 						     <ul>
 						      	<li>Chose Framework</li>
 						      	<li>Created Repository</li>
@@ -430,8 +432,6 @@
 
 						      <h4>Chadrick Frederick-Content Master and Designer</h4>
 
-                 <p>This person is most busy in the beginning and near the end of the project. This person is responsible for gathering all the content and structuring it (which includes writing HTML), and working with the Framework Wrangler. After all is done, the Content Manager/Designer is responsible for the appearance, which includes usability of the website.</p>
-
 						    <ul>
 						      	<li>Chose Topic: Sports</li>
 						      	<li>Structured Content</li>
@@ -444,8 +444,6 @@
 						     <div class="colophon-border">
                   
 						      <h4>Daniel Gomez-CSS Artist</h4>
-
-                  <p>Working with the Architect and the Content Master/Designer, this person will extend the framework beyond what it does out-of-the-box, to give the website a custom look and feel. This person will manage their own CSS that overrides the styles that came with the framework.</p>
 						
 						    <ul>
 						      	<li>Overrode Materialize</li>
@@ -455,11 +453,13 @@
 						    </ul>
 
                  </div><!--.colophon-border-->
+
+               </div><!--.inline1-->
+
+               <div class="inline2">
 						      
 						     <div class="colophon-border">
 						      <h4>Mariana Flores Kim-Framework Wrangler</h4>
-
-                  <p>Working with the Architect, this person installs the framework and gets help from the Architect on how to use it. This person is mostly responsible for the pages and how they're coded. This person takes direction from the Content Master/Designer regarding what goes where on which pages, and how the layout is supposed to go.</p>
 			
 						    <ul>
 						      	<li>Created New Classes</li>
@@ -474,8 +474,6 @@
 						      
 						   <div class="colophon-border">
 						    <h4>Jacob Margolis-JavaScript Coder</h4>
-
-                <p>This person is responsible for implementing all JavaScript functionality on the website which may include features from the framework and/or features of the required homepage slideshow, plus any other website "behaviors".</p>
 						 
 						    <ul>
 						      	<li>Designed Carousel</li>
@@ -500,6 +498,8 @@
 							</ul>
 
                </div><!--.colophon-border-->
+
+             </div><!--.inline2-->
 
 		
 			</article>
