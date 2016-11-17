@@ -106,6 +106,12 @@ aside {
 	max-width: 80%;
 }
 
+#colophon div {
+	border: 5px solid grey;
+	line-height: 160%;
+	padding: 2px;
+}
+
 .tasks {
 	max-width: 60%
 }
