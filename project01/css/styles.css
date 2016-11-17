@@ -107,9 +107,11 @@ aside {
 }
 
 .colophon-border{
-	border: 5px solid grey;
+	border: 5px solid white;
 	line-height: 160%;
-	padding: 2px;
+	padding: 10px;
+	margin:5px;
+	background-color: #9fa8da;
 }
 
 .tasks {
